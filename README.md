@@ -8,7 +8,7 @@ My name is Fatih (but my friends call me FG) and I'm from Germany. <br>I am a QA
 
 ## Skills
 
- Java | Selenium | HTML | CSS | ...
+ Java | Selenium | Junit | TestNG | HTML | CSS | ...
 
 
 ## Learning
