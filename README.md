@@ -22,6 +22,6 @@ JS | ReactJS | NodeJS | Solidity | ...
 
 [Trivago Website (Test Automation)](https://github.com/fgulen/Trivago-room5-automation)
 
-[React Travel Project]([https://fgulen.github.io/Proje/](https://my-travel-journey-with-react.vercel.app/))
+[React Travel Project] (https://fgulen.github.io/Proje/](https://my-travel-journey-with-react.vercel.app/)
 
 [Portfolio Project](https://fgulen.github.io/Proje/)
