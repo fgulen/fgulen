@@ -26,4 +26,7 @@ JS | ReactJS | NodeJS | Solidity | ...
 
 [React Airbnb Clone](https://fgulen-airbnb-clone-react-js.vercel.app/)
 
+[React Business Card](https://business-card-self.vercel.app/)
+
 [Portfolio Project](https://fgulen.github.io/Proje/)
+
