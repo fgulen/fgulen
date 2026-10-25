@@ -1,32 +1,17 @@
+# Hi, I'm Fatih
 
+Test automation engineer in Germany. At work I automate mobile and web tests for rail projects. In my own time I build apps, AI workflows and learning tools — Efge Labs is where those experiments turn into working products.
 
-![](https://github.com/fgulen/Proje/blob/fatih/images/fg`.png)
+🔬 [efge-labs.vercel.app](https://efge-labs.vercel.app) · [LinkedIn](https://www.linkedin.com/in/fatihgulen/)
 
-# Hi there 👋
-My name is Fatih and I'm from Germany. <br>I am a QA engineer with a passion for test design and automation. I enjoy learning and working with new tech tools and technologies and have a particular interest in Blockchain. In my free time, I enjoy staying up to date on the latest developments in the tech industry and expanding my skill set. I am a team player with strong problem-solving skills and excellent communication skills, and I am always looking for new challenges and opportunities to grow as a professional.
+## Selected work
 
+- **[Halal Checker](https://github.com/fgulen/halal-app)** — Android barcode app, [live on Google Play](https://play.google.com/store/apps/details?id=com.fatihgulen.helalrehberi&hl=en)
+- **[Local Browser MCP](https://github.com/fgulen/homemade-playwright-mcp-server)** — 25 Playwright tools for AI assistants, fully local
+- **[WeiterWert](https://github.com/fgulen/weiterwert)** — refurbished laptops and tablets for students who need them
+- **[Three-Tier Testbed](https://github.com/fgulen/employee-app)** — UI · API · DB end-to-end tests
+- **[API testing](https://github.com/fgulen/api-restassured-cucumber-BDD)** with REST Assured + Cucumber
 
-## Skills
+## Toolbox
 
- Java | Selenium | Junit | TestNG | HTML | CSS | ...
-
-
-## Learning
-
-JS | ReactJS | NodeJS | Solidity | ...
-
-
-## Some of my projects 
-
-[Amazon Website (Test Automation)](https://github.com/fgulen/amazon-automation)
-
-[Trivago Website (Test Automation)](https://github.com/fgulen/Trivago-room5-automation)
-
-[React Travel Project](https://fgulen-my-travel-journey.vercel.app/)
-
-[React Airbnb Clone](https://fgulen-airbnb-clone-react-js.vercel.app/)
-
-[React Business Card](https://business-card-self.vercel.app/)
-
-[Portfolio Project](https://fgulen.github.io/Proje/)
-
+Playwright · Selenium · Java · TestNG · Cucumber · REST Assured · TypeScript · Kotlin · Next.js · MCP
