@@ -1,6 +1,6 @@
 # Hi, I'm Fatih
 
-Test automation engineer in Germany. At work I automate mobile and web tests for rail projects. In my own time I build apps, AI workflows and learning tools — Efge Labs is where those experiments turn into working products.
+Test automation expert in Germany. At work I automate mobile and web tests for rail projects. In my own time I build apps, AI workflows and learning tools — Efge Labs is where those experiments turn into working products.
 
 🔬 [efge-labs.vercel.app](https://efge-labs.vercel.app) · [LinkedIn](https://www.linkedin.com/in/fatihgulen/)
 
