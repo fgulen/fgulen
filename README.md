@@ -10,7 +10,7 @@ Test automation expert in Germany. At work I automate mobile and web tests for r
 - **[Local Browser MCP](https://github.com/fgulen/homemade-playwright-mcp-server)** — 25 Playwright tools for AI assistants, fully local
 - **[WeiterWert](https://github.com/fgulen/weiterwert)** — refurbished laptops and tablets for students who need them
 - **[Three-Tier Testbed](https://github.com/fgulen/employee-app)** — UI · API · DB end-to-end tests
-- **[API testing](https://github.com/fgulen/api-restassured-cucumber-BDD)** with REST Assured + Cucumber
+- **[Playwright test suite](https://github.com/fgulen/playwright-automation)** — authentication, file upload/download, UI components
 
 ## Toolbox
 
